@@ -1,4 +1,4 @@
-# MindCheck v3 — Cognitive Behavioral Report
+# MindCheck (Cognitive Behavioral Report)
 ## Qasim's MindCheck Model
 
 ### What's new vs v2
