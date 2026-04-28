@@ -1,7 +1,7 @@
 # MindCheck (Cognitive Behavioral Report)
 ## Qasim's MindCheck Model
 
-### What's new vs v2
+### What's the Improvements Over Beta Version
 
 | Feature | Beta | Final |
 |---|---|---|
