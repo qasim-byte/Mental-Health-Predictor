@@ -3,7 +3,7 @@
 
 ### What's new vs v2
 
-| Feature | v2 | v3 |
+| Feature | Beta | Final |
 |---|---|---|
 | Datasets | OSMI survey (1,259 rows) | OSMI + Mental Health Dataset (293K+ rows) |
 | Model accuracy | ~88% | ~98% |
